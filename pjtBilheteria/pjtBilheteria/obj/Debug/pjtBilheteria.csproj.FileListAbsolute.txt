@@ -1,0 +1,11 @@
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\bin\Debug\pjtBilheteria.exe.config
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\bin\Debug\pjtBilheteria.exe
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\bin\Debug\pjtBilheteria.pdb
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.csproj.AssemblyReference.cache
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.Properties.Resources.resources
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.csproj.GenerateResource.cache
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.csproj.CoreCompileInputs.cache
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.exe
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.pdb
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.exe.config
+C:\ifsp\estrutura de dados\edd2\bilheteria-winforms\pjtBilheteria\pjtBilheteria\obj\Debug\pjtBilheteria.frm_bilheteria.resources
